@@ -1,1 +1,4 @@
 # Leet-Code
+
+---SQL
+---JAVASCRIPT
