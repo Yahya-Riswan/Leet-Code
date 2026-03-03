@@ -37,6 +37,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0198-house-robber](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0198-house-robber/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -56,4 +57,12 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
