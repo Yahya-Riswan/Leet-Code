@@ -49,6 +49,7 @@
 | [0022-generate-parentheses](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0198-house-robber/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -112,10 +114,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
