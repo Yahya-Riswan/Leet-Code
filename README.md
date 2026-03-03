@@ -27,6 +27,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 | [0056-merge-intervals](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0056-merge-intervals/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0198-house-robber/) | Medium |
@@ -104,4 +105,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
