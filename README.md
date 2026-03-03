@@ -31,6 +31,7 @@
 | [0198-house-robber](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Yahya-Riswan/Leet-Code/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,4 +78,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0207-course-schedule/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Yahya-Riswan/Leet-Code/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1944-number-of-visible-people-in-a-queue](https://github.com/Yahya-Riswan/Leet-Code/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 <!---LeetCode Topics End-->
