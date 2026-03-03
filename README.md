@@ -44,11 +44,13 @@
 | [0022-generate-parentheses](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0022-generate-parentheses/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0198-house-robber/) | Medium |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0207-course-schedule/) | Medium |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,4 +91,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Yahya-Riswan/Leet-Code/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 <!---LeetCode Topics End-->
