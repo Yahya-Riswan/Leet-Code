@@ -38,12 +38,14 @@
 | [0994-rotting-oranges](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Yahya-Riswan/Leet-Code/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
+| [2751-robot-collisions](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
+| [2751-robot-collisions](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2751-robot-collisions/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -97,6 +99,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Yahya-Riswan/Leet-Code/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2751-robot-collisions](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2751-robot-collisions/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,4 +134,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2751-robot-collisions](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2751-robot-collisions/) | Hard |
 <!---LeetCode Topics End-->
