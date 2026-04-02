@@ -38,6 +38,7 @@
 | [0994-rotting-oranges](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Yahya-Riswan/Leet-Code/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,6 +52,7 @@
 | [0198-house-robber](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0198-house-robber/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0200-number-of-islands/) | Medium |
 | [0994-rotting-oranges](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0994-rotting-oranges/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
