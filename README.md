@@ -40,12 +40,14 @@
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [2751-robot-collisions](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2751-robot-collisions/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0056-merge-intervals/) | Medium |
 | [0242-valid-anagram](https://github.com/Yahya-Riswan/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [2751-robot-collisions](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2751-robot-collisions/) | Hard |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,4 +141,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2751-robot-collisions](https://github.com/Yahya-Riswan/Leet-Code/tree/main/2751-robot-collisions/) | Hard |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3661-maximum-walls-destroyed-by-robots](https://github.com/Yahya-Riswan/Leet-Code/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 <!---LeetCode Topics End-->
